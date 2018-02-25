@@ -1,0 +1,3 @@
+/home/ubuntu/Documents/opencv/hand/cameraCode/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Documents/opencv/hand/cameraCode/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Documents/opencv/hand/cameraCode/build/CMakeFiles/camera_cv.dir
